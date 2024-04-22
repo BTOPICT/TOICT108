@@ -47,7 +47,7 @@ header li a{
 /************************mainimage**************************/
 #mainimage{
 	padding-top: 60px;
-	background: url(pic/pic1.jpg) no-repeat fixed 50%;
+	background: url(pic1.jpg) no-repeat fixed 50%;
 	background-size: cover;
 	height: 697px;
 }
@@ -99,13 +99,13 @@ h1{
 	padding-top: 60px;
 }
 #ocean{
-	background: url(pic/pic9.jpeg) no-repeat;
+	background: url(pic9.jpeg) no-repeat;
 }#limplage{
-	background: url(pic/pic6.jpg) no-repeat;
+	background: url(pic6.jpg) no-repeat;
 }#kriplage{
-	background: url(pic/image.jpeg) no-repeat;
+	background: url(image.jpeg) no-repeat;
 }#visite{
-	background: url(pic/image1.jpg) no-repeat;
+	background: url(image1.jpg) no-repeat;
 }
 #touriste li{
 	margin: 65px 100px 0px 100px;
